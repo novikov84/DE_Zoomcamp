@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  credentials = "C:\\Users\\Usuario\\keys\\sound-oasis-309708-317bffec9931.json"
+  credentials = "C:\\Users\\Usuario\\keys\\sound-oasis-309708-9e5ae6c4517d.json"
   project = "sound-oasis-309708"
   region  = "us-central1"
 }
