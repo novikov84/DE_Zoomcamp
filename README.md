@@ -1,1 +1,1 @@
-# DE_Zoomcamp
+# Assignments fot DE Zoomcamp 2024
